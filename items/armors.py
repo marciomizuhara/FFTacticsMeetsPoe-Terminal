@@ -1,0 +1,21 @@
+armor_type = [
+    {'type': 'armor', 'name': 'Wooden Armor', 'life': '1', 'attack': '1', 'defense': '1', 'crit_chance': 0, 'crit_damage': 0, 'item_quantity': 0,  'level': 1},
+    {'type': 'armor', 'name': 'Light Robe',  'life': '8', 'attack': '0', 'defense': '4', 'crit_chance': 0, 'crit_damage': 0, 'item_quantity': 0,  'level': 2},
+    {'type': 'armor', 'name': "Sage's Robe",  'life': '16', 'attack': '0', 'defense': '8', 'crit_chance': 0, 'crit_damage': 0, 'item_quantity': 0,  'level': 3},
+    {'type': 'armor', 'name': 'Magick Robe',  'life': '26', 'attack': '0', 'defense': '12', 'crit_chance': 0, 'crit_damage': 0, 'item_quantity': 0, 'level': 4},
+    {'type': 'armor', 'name': 'Bronze Armor',  'life': '38', 'attack': '0', 'defense': '16', 'crit_chance': 0, 'crit_damage': 0, 'item_quantity': 0, 'level': 5},
+    {'type': 'armor', 'name': 'Silver Armor',  'life': '50', 'attack': '0', 'defense': '20', 'crit_chance': 0, 'crit_damage': 0, 'item_quantity': 0, 'level': 6},
+    {'type': 'armor', 'name': 'Golden Armor',  'life': '65', 'attack': '0', 'defense': '24', 'crit_chance': 0, 'crit_damage': 0, 'item_quantity': 0, 'level': 7},
+    {'type': 'armor', 'name': 'Bronze Platemail',  'life': '70', 'attack': '0', 'defense': '28', 'crit_chance': 0, 'crit_damage': 0, 'item_quantity': 0, 'level': 8},
+    {'type': 'armor', 'name': 'Silver Platemail',  'life': '88', 'attack': '0', 'defense': '32', 'crit_chance': 0, 'crit_damage': 0, 'item_quantity': 0, 'level': 9},
+    {'type': 'armor', 'name': 'Golden Platemail',  'life': '110', 'attack': '0', 'defense': '36', 'crit_chance': 0, 'crit_damage': 0, 'item_quantity': 0, 'level': 10},
+    {'type': 'armor', 'name': 'Mythril Armor',  'life': '130', 'attack': '0', 'defense': '40', 'crit_chance': 0, 'crit_damage': 0, 'item_quantity': 0, 'level': 11},
+    {'type': 'armor', 'name': 'Flame Mail',  'life': '160', 'attack': '0', 'defense': '44', 'crit_chance': 0, 'crit_damage': 0, 'item_quantity': 0, 'level': 12},
+    {'type': 'armor', 'name': 'Dragon Mail',  'life': '200', 'attack': '0', 'defense': '48', 'crit_chance': 0, 'crit_damage': 0, 'item_quantity': 0, 'level': 13},
+    {'type': 'armor', 'name': 'Crystal Mail',  'life': '250', 'attack': '0', 'defense': '52', 'crit_chance': 0, 'crit_damage': 0, 'item_quantity': 0, 'level': 14},
+    {'type': 'armor', 'name': 'Adamantium Mail',  'life': '310', 'attack': '0', 'defense': '56', 'crit_chance': 0, 'crit_damage': 0, 'item_quantity': 0, 'level': 15},
+    {'type': 'armor', 'name': 'Lionheart Armor', 'life': '370', 'attack': '0', 'defense': '40', 'crit_chance': 0, 'crit_damage': 0, 'item_quantity': 0, 'level': 16},
+    {'type': 'armor', 'name': "Moogle's Mail", 'life': '470', 'attack': '0', 'defense': '44', 'crit_chance': 0, 'crit_damage': 0, 'item_quantity': 0, 'level': 18},
+    {'type': 'armor', 'name': 'Timeworn  Mail', 'life': '600', 'attack': '0', 'defense': '42', 'crit_chance': 0, 'crit_damage': 0, 'item_quantity': 0, 'level': 19},
+    {'type': 'armor', 'name': 'Genji Chest', 'life': '580', 'attack': '0', 'defense': '56', 'crit_chance': 0, 'crit_damage': 0, 'item_quantity': 0, 'level': 20}
+]
